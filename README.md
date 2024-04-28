@@ -1,0 +1,3 @@
+**There is a LOT of tools that used in information gathering that gives you subdomains that usually most of them is not working or 
+giving 404 (not found) ,403 (blocking), etc... 
+ So, this code takes a text file name that have the subdomains and check for their validation, and it will print all the valid subdomains.**
